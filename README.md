@@ -10,9 +10,9 @@ Para preencher a página com as informações dos produtos, você terá que cons
 
 > Tecnologias utilizadas
 
-** HTML
+**HTML**
 
-** CSS
+**CSS**
 
-** JAVASCRIPT
+**jAVASCRIPT**
 
