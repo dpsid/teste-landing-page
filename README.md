@@ -14,5 +14,5 @@ Para preencher a página com as informações dos produtos, você terá que cons
 
 **CSS**
 
-**jAVASCRIPT**
+**JAVASCRIPT**
 
